@@ -1,0 +1,13 @@
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\Encryption\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
